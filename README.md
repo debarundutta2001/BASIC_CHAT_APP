@@ -1,2 +1,2 @@
-# BASIC_CHAT_APP
+# CODECLAUSE_BASIC_CHAT_APP
 Web Development Intern
