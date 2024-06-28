@@ -1,9 +1,11 @@
 # CODECLAUSE_BASIC_CHAT_APP
-Web Development Intern
-Project :Face Signin and Sign Up. //
+
+
+
+Project :  Basic Chat Application //
 
 IDE- VS Code.
 
-Built a Face Recognition App using PYTHON,JAVASCRIPT AND HTML. //
+Built a Chat Application using HTML,CSS and JAVASCRIPT. //
 
-CodeClause_WebDevelopment_Intern(Golden Project 2).
+CodeClause_WebDevelopment_Intern(Allocated Project 1).
